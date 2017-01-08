@@ -13,13 +13,13 @@ return [
     // 数据库类型
     'type'           => 'mysql',
     // 服务器地址
-    'hostname'       => '127.0.0.1',
+    'hostname'       => 'qdm16820319.my3w.com',
     // 数据库名
-    'database'       => 'eagle',
+    'database'       => 'qdm16820319_db',
     // 用户名
-    'username'       => 'root',
+    'username'       => 'qdm16820319',
     // 密码
-    'password'       => 'qfl772821.',
+    'password'       => 'qfl772821',
     // 端口
     'hostport'       => '3306',
     // 连接dsn
